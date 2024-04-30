@@ -57,7 +57,7 @@ global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
 //
-global.ntilinkytvid = []
+global.ntilinkytvid = [❤️‍🩹]
 global.ntilinkytch = []
 global.ntilinkig = []
 global.ntilinkfb = []
